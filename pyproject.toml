@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pubmed-search"
 version = "1.0.0"
 description = "MCP server for PubMed search and literature summarization"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 dependencies = [
     "mcp>=1.0.0",
 ]
