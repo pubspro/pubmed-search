@@ -16,11 +16,14 @@ Built by a PhD neuroscientist + CMPP-certified medical writer.
 
 ## Pricing
 
-| Plan | Price |
-|------|-------|
-| Free | 10 searches/day |
-| Pro | $19/mo unlimited |
-| Enterprise | $79/mo bulk + support |
+| Tier | Requests/mo | Price |
+|------|-------------|-------|
+| Free | 25 | $0 |
+| Pro | 1,000 | $29/mo ($278/yr) |
+| Business | 3,000 | $59/mo ($566/yr) |
+| Ultra | 10,000 | $79/mo ($758/yr) |
+
+**Free tier** includes `search_pubmed`. Paid tiers unlock **Advanced Literature Intelligence**: `get_abstract`, `get_citations`, `summarize_findings`, and `find_reviews`.
 
 ## Usage
 
