@@ -1,5 +1,7 @@
 # pubmed-search MCP
 
+[![MCPize](https://mcpize.com/badge/@pubspro/pubmed-search)](https://mcpize.com/mcp/pubmed-search)
+
 Search PubMed and summarize biomedical literature — designed for AI health agents.
 
 Built by a PhD neuroscientist + CMPP-certified medical writer.
